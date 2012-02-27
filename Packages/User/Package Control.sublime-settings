@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1330362093,
+	"installed_packages":
+	[
+		"Git",
+		"GitHub.app Menu",
+		"Package Control",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}

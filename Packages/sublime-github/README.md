@@ -73,6 +73,10 @@ The following commands are available in the Command Palette:
     Displays a quick select panel listing only your starred gists, and selecting one will
     open that gist in your default web browser.
 
+* **GitHub: Update Gist**
+
+    Update the gist open in the current editor.
+
 
 ## Issues
 
@@ -95,16 +99,18 @@ If you feel uncomfortable giving your GitHub username and password to the
 plugin, you can generate a GitHub API access token yourself. Just open up
 a Terminal window/shell (Windows users, you're on your own here), and run:
 
-    curl -u "username:password" -d '{"scopes":["gist"]}' https://api.github.com/authorizations
+    curl -u username -d '{"scopes":["gist"]}' https://api.github.com/authorizations
 
-where `username` and `password` are your GitHub credentials. You'll get back
-a JSON response that includes a 40-digit "token" value (e.g. `6423ba8429a152ff4a7279d1e8f4674029d3ef87`).
+where `username` is your GitHub username. You'll be prompt for your password first. Then you'll get back
+a response that includes a 40-digit "token" value (e.g. `6423ba8429a152ff4a7279d1e8f4674029d3ef87`).
 Go to Sublime Text 2 -> Preferences -> Package Settings -> GitHub -> Settings - User,
 and insert the token there. It should look like:
 
     {
         "github_token": "6423ba8429a152ff4a7279d1e8f4674029d3ef87"
     }
+
+Restart Sublime.
 
 That's it!
 

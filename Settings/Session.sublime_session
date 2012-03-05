@@ -2,10 +2,10 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"settings":
 	{
-		"new_window_height": 599.0,
+		"new_window_height": 787.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -17,7 +17,7 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 187.0,
+				"height": 336.0,
 				"selected_items":
 				[
 					[
@@ -25,16 +25,40 @@
 						":w - Save"
 					],
 					[
-						":",
-						"HTML: Wrap Selection With Tag"
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"defa",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":!",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"git",
+						"SublimeLinter: Enable Background Linting"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"gist",
+						"GitHub: Open Gist in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax: p",
+						"Set Syntax: Perl"
 					],
 					[
 						":json",
 						"Set Syntax: JSON"
-					],
-					[
-						":q",
-						"Set Syntax: SQL"
 					],
 					[
 						":e",
@@ -45,11 +69,11 @@
 						"Set Syntax: SQL"
 					]
 				],
-				"width": 392.0
+				"width": 588.0
 			},
 			"console":
 			{
-				"height": 0.0
+				"height": 124.0
 			},
 			"distraction_free":
 			{
@@ -62,6 +86,18 @@
 			},
 			"file_history":
 			[
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/admin.js",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/order.js",
+				"/Users/chrisczub/repos/common-cui/demo/perl/index.cgi",
+				"/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/newcase.js",
+				"/Users/chrisczub/repos/bitleap/web/cloud/cui_views/account/bonuscredits.php",
+				"/Users/chrisczub/repos/bitleap/.gitignore",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/add_product.js",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
+				"/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/chrisczub/repos/bitleap/client/config_client/activate.php"
 			],
 			"find":
 			{
@@ -79,10 +115,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"find",
-					"#e[0-9]",
-					"italic",
-					"ae",
 					"string",
 					"word",
 					"Draw",
@@ -93,7 +125,7 @@
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
 				],
@@ -109,7 +141,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 30.0
 			},
 			"layout":
 			{
@@ -144,6 +176,14 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"account/bo",
+						"web/cloud/cui_views/account/bonuscredits.php"
+					],
+					[
+						"bonus",
+						"web/cloud/models/bonuscredit.php"
+					]
 				],
 				"width": 0.0
 			},
@@ -159,10 +199,10 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 265.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1022.0
+		"new_window_width": 1440.0
 	},
 	"windows":
 	[
@@ -171,79 +211,59 @@
 			{
 				"selected_items":
 				[
+					[
+						"MYS",
+						"MYSQL_DB"
+					],
+					[
+						"M",
+						"MYSQL_URL"
+					],
+					[
+						"MYSQ",
+						"mysql_user"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/tools/populate_database.py",
 					"settings":
 					{
-						"buffer_size": 9828,
+						"buffer_size": 704,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"file": "/Users/chrisczub/120227/VEHICLES.TXT",
 					"settings":
 					{
-						"buffer_size": 160,
+						"buffer_size": 10471577,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/120227/LINKS.TXT",
+					"settings":
+					{
+						"buffer_size": 5086670,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/sublime-text-2-settings/Packages/User/Python.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 77,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/chrisczub/repos/common-cui/demo/perl/index.cgi",
+					"file": "/Users/chrisczub/repos/comparator_facebook/.env",
 					"settings":
 					{
-						"buffer_size": 1824,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/cloud/cui_views/account/bonuscredits.php",
-					"settings":
-					{
-						"buffer_size": 5251,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/order.js",
-					"settings":
-					{
-						"buffer_size": 1062,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/admin.js",
-					"settings":
-					{
-						"buffer_size": 1387,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/cloud.js",
-					"settings":
-					{
-						"buffer_size": 5421,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
-					"settings":
-					{
-						"buffer_size": 3174,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/newcase.js",
-					"settings":
-					{
-						"buffer_size": 179,
+						"buffer_size": 327,
 						"line_ending": "Unix"
 					}
 				}
@@ -251,9 +271,13 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 94.0,
+				"height": 375.0,
 				"selected_items":
 				[
+					[
+						":w",
+						":w - Save"
+					],
 					[
 						":q",
 						"Set Syntax: SQL"
@@ -273,10 +297,6 @@
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						":w",
-						":w - Save"
 					],
 					[
 						"gist",
@@ -303,7 +323,7 @@
 						"Set Syntax: SQL"
 					]
 				],
-				"width": 435.0
+				"width": 588.0
 			},
 			"console":
 			{
@@ -320,9 +340,18 @@
 			},
 			"file_history":
 			[
+				"/Users/chrisczub/repos/sublime-text-2-settings/Packages/User/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/sublime-text-2-settings/Packages/Default/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/admin.js",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/order.js",
+				"/Users/chrisczub/repos/common-cui/demo/perl/index.cgi",
+				"/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/newcase.js",
+				"/Users/chrisczub/repos/bitleap/web/cloud/cui_views/account/bonuscredits.php",
+				"/Users/chrisczub/repos/bitleap/.gitignore",
 				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/add_product.js",
 				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
-				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/admin.js",
 				"/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/chrisczub/repos/bitleap/client/config_client/activate.php"
 			],
@@ -365,56 +394,119 @@
 			"folders":
 			[
 				{
-					"path": "/Users/chrisczub/repos/bitleap"
+					"path": "/Users/chrisczub/repos/comparator_facebook"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 8,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/tools/populate_database.py",
 							"settings":
 							{
-								"buffer_size": 9828,
+								"buffer_size": 704,
 								"regions":
 								{
+									"bookmark_j":
+									{
+										"flags": 144,
+										"regions":
+										[
+											[
+												562,
+												562
+											]
+										]
+									}
 								},
 								"selection":
 								[
 									[
-										569,
-										569
+										45,
+										45
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"auto_name": "",
+									"syntax": "Packages/Python/Python.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 255.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+							"file": "/Users/chrisczub/120227/VEHICLES.TXT",
 							"settings":
 							{
-								"buffer_size": 160,
+								"buffer_size": 10471577,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										90,
-										90
+										827,
+										827
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/chrisczub/120227/LINKS.TXT",
+							"settings":
+							{
+								"buffer_size": 5086670,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4269313,
+										4270109
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/chrisczub/repos/sublime-text-2-settings/Packages/User/Python.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 77,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										75,
+										75
 									]
 								],
 								"settings":
@@ -428,188 +520,24 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/Users/chrisczub/repos/common-cui/demo/perl/index.cgi",
-							"settings":
-							{
-								"buffer_size": 1824,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1334,
-										1334
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Perl/Perl.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 88.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/chrisczub/repos/bitleap/web/cloud/cui_views/account/bonuscredits.php",
-							"settings":
-							{
-								"buffer_size": 5251,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										905,
-										905
-									]
-								],
-								"settings":
-								{
-									"sublimelinter": true,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
 							"buffer": 4,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/order.js",
+							"file": "/Users/chrisczub/repos/comparator_facebook/.env",
 							"settings":
 							{
-								"buffer_size": 1062,
+								"buffer_size": 327,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										957,
-										957
+										327,
+										327
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/admin.js",
-							"settings":
-							{
-								"buffer_size": 1387,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/cloud.js",
-							"settings":
-							{
-								"buffer_size": 5421,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
-							"settings":
-							{
-								"buffer_size": 3174,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/newcase.js",
-							"settings":
-							{
-								"buffer_size": 179,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -651,7 +579,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "1920 160 1920 1080 1920 160 1920 1080 ",
+			"position": "0 69 1440 809 0 0 1440 878 ",
 			"replace":
 			{
 				"height": 0.0
@@ -687,7 +615,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 265.0,
 			"status_bar_visible": true,
-			"window_id": 2,
+			"window_id": 3,
 			"workspace_name": ""
 		}
 	],

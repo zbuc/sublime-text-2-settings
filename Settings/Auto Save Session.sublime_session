@@ -2,10 +2,10 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"settings":
 	{
-		"new_window_height": 599.0,
+		"new_window_height": 787.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -14,192 +14,6 @@
 				[
 				]
 			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 187.0,
-				"selected_items":
-				[
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						":",
-						"HTML: Wrap Selection With Tag"
-					],
-					[
-						":json",
-						"Set Syntax: JSON"
-					],
-					[
-						":q",
-						"Set Syntax: SQL"
-					],
-					[
-						":e",
-						":e - Revert"
-					],
-					[
-						":Q",
-						"Set Syntax: SQL"
-					]
-				],
-				"width": 392.0
-			},
-			"console":
-			{
-				"height": 0.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"find",
-					"#e[0-9]",
-					"italic",
-					"ae",
-					"string",
-					"word",
-					"Draw",
-					"draw",
-					"    // ",
-					"auto"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1022.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/cloud.js",
-					"settings":
-					{
-						"buffer_size": 4010,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
-					"settings":
-					{
-						"buffer_size": 3174,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
-					"settings":
-					{
-						"buffer_size": 9819,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -321,52 +135,670 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"account/bo",
+						"web/cloud/cui_views/account/bonuscredits.php"
+					],
+					[
+						"bonus",
+						"web/cloud/models/bonuscredit.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"has",
+						"has_key"
+					],
+					[
+						"access",
+						"access_token"
+					],
+					[
+						"local",
+						"local_access_token"
+					],
+					[
+						"MYS",
+						"MYSQL_DB"
+					],
+					[
+						"M",
+						"MYSQL_URL"
+					],
+					[
+						"MYSQ",
+						"mysql_user"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/tools/populate_database.py",
+					"settings":
+					{
+						"buffer_size": 726,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/120227/VEHICLES.TXT",
+					"settings":
+					{
+						"buffer_size": 10471577,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/120227/LINKS.TXT",
+					"settings":
+					{
+						"buffer_size": 5086670,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 2023,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 3390,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/register.html",
+					"settings":
+					{
+						"buffer_size": 557,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/views/__init__.py",
+					"settings":
+					{
+						"buffer_size": 2790,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/index.js",
+					"settings":
+					{
+						"buffer_size": 378,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/decorators/__init__.py",
+					"settings":
+					{
+						"buffer_size": 1946,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/Rakefile",
+					"settings":
+					{
+						"buffer_size": 4169,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/comparator.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/lib/comparator.lib.js",
+					"settings":
+					{
+						"buffer_size": 701,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/register.js",
+					"settings":
+					{
+						"buffer_size": 187,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "from flask import session, request, g, redirect, url_for, render_template\n\nfrom comparator import app, mc, users, gdb, comp, fq_url_for, fbapi\n\n\n@app.route('/login', methods=['GET', 'POST'])\ndef login():\n    access_token, local_access_token = session.get('access_token'), session.get('local_access_token')\n    # are they already logged in?\n    if access_token and 'user_' + access_token in mc:\n        # refresh their session by resetting the timer in memcached\n        mc.set('user_' + access_token, mc['user_' + access_token], 600)\n        g.user = mc['user_' + access_token]\n        return redirect(url_for('index'))\n    elif local_access_token and 'user_' + local_access_token in mc:\n        # they're registered on this site\n        # refresh their session by resetting the timer in memcached\n        mc.set('user_' + local_access_token, mc['user_' + local_access_token], 600)\n        g.user = mc['user_' + local_access_token]\n        return redirect(url_for('index'))\n\n    # ok, they are not logged in.\n    access_token, local_access_token = None, None\n    email = request.args.get('email', None)\n    password = request.args.get('password', None)\n\n    # are they logging in with facebook?\n    if request.args.get('code', None):\n        # TODO what if this fails\n        access_token = fbapi.fbapi_auth(request.args.get('code'))[0]\n        session['access_token'] = access_token\n\n        g.user = fbapi.fb_call('me', args={'access_token': access_token})\n        # 600 second timeout? 10 minutes -- probably good\n        mc.set('user_' + access_token, g.user, 600)\n\n        you = users.get('id', g.user.get('email'))\n        if not you:\n            import uuid\n            guid = str(uuid.uuid1())\n            you = gdb.create_node()\n            users.add(you, 'id', g.user.get('email'))\n            users.add(you, 'guid', guid)\n            you.set_properties({'guid': guid, 'id': g.user.get('email'), 'type': 'user'})\n            you.create_relationship_to(comp, 'used_site')\n        else:\n            you = you[0]\n            session['guid'] = you.get_properties()['guid']\n            return redirect(url_for('index'))\n    elif email and password:\n        # they are trying to log in\n        \n        pass\n    else:\n        return render_template('login.html', appId=app.config.get('FBAPI_APP_ID'),\n            fbRegUrl=fbapi.oauth_login_url(next_url=fq_url_for('login')), jsController=\"login\",\n            domain=request.host)\n\n\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    return render_template('register.html', appId=app.config.get('FBAPI_APP_ID'),\n        fbRegUrl=fbapi.oauth_login_url(next_url=fq_url_for('login')), jsController=\"register\",\n        domain=request.host)\n",
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/views/auth.py",
+					"file_size": 2714,
+					"file_write_time": 1330916600000000,
+					"settings":
+					{
+						"buffer_size": 2707,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/login.html",
+					"settings":
+					{
+						"buffer_size": 730,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/__init__.py",
+					"settings":
+					{
+						"buffer_size": 4768,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/css/lib/wells.less",
+					"settings":
+					{
+						"buffer_size": 305,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 314.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						"Snippet: new",
+						"Snippet: New Class"
+					],
+					[
+						":inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"0",
+						":0 - BOF"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"defa",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":!",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"git",
+						"SublimeLinter: Enable Background Linting"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"gist",
+						"GitHub: Open Gist in Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax: p",
+						"Set Syntax: Perl"
+					],
+					[
+						":json",
+						"Set Syntax: JSON"
+					],
+					[
+						":e",
+						":e - Revert"
+					],
+					[
+						":Q",
+						"Set Syntax: SQL"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 124.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/chrisczub/repos/comparator_facebook/comparator/static/css/lib/forms.less",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/auth/auth.js",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/comparator.js",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/register.js",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/views/auth.py",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/__init__.py",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/decorators/__init__.py",
+				"/Users/chrisczub/repos/sublime-text-2-settings/Packages/User/debug.python",
+				"/Users/chrisczub/repos/comparator_facebook/venv/lib/python2.7/encodings/iso8859_1.py",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator.js",
+				"/Users/chrisczub/repos/sublime-text-2-settings/Packages/User/Python.sublime-settings",
+				"/Users/chrisczub/repos/comparator_facebook/.env",
+				"/Users/chrisczub/repos/comparator_facebook/runserver.py",
+				"/Users/chrisczub/repos/comparator_facebook/Procfile",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/views/__init__.py",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/settings.conf",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/decorators:__init__.py",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/static/channel.html",
+				"/Users/chrisczub/repos/comparator_facebook/comparator/demo.py",
+				"/Users/chrisczub/repos/sublime-text-2-settings/Packages/User/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/sublime-text-2-settings/Packages/Default/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/admin.js",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/order.js",
+				"/Users/chrisczub/repos/common-cui/demo/perl/index.cgi",
+				"/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/newcase.js",
+				"/Users/chrisczub/repos/bitleap/web/cloud/cui_views/account/bonuscredits.php",
+				"/Users/chrisczub/repos/bitleap/.gitignore",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/add_product.js",
+				"/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
+				"/Users/chrisczub/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/chrisczub/repos/bitleap/client/config_client/activate.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"text",
+					":focus",
+					"text",
+					"color",
+					"session",
+					"sess",
+					"'close'",
+					"close.html",
+					"close",
+					"random",
+					"img",
+					"popup",
+					"minify",
+					"print",
+					"code",
+					"me",
+					"g.mc",
+					"me =",
+					"user =",
+					"g.me",
+					"g.mc",
+					"ge.mc",
+					"me =",
+					"me",
+					"mc",
+					"access_token",
+					"render_tem",
+					"index",
+					"string",
+					"word",
+					"Draw",
+					"draw",
+					"    // ",
+					"auto"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"mc"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
-					"path": "/Users/chrisczub/repos/bitleap"
+					"path": "/Users/chrisczub/repos/comparator_facebook"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 16,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/cloud.js",
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/tools/populate_database.py",
 							"settings":
 							{
-								"buffer_size": 4010,
+								"buffer_size": 726,
 								"regions":
 								{
+									"bookmark_j":
+									{
+										"flags": 144,
+										"regions":
+										[
+											[
+												0,
+												0
+											]
+										]
+									}
 								},
 								"selection":
 								[
 									[
-										3131,
-										3131
+										558,
+										558
 									]
 								],
 								"settings":
 								{
-									"sublimelinter": false,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"auto_name": "",
+									"syntax": "Packages/Python/Python.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1003.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/chrisczub/repos/bitleap/web/shared/js/cloud/hoverIntent.js",
+							"file": "/Users/chrisczub/120227/VEHICLES.TXT",
 							"settings":
 							{
-								"buffer_size": 3174,
+								"buffer_size": 10471577,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3336,
+										3336
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 151.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/chrisczub/120227/LINKS.TXT",
+							"settings":
+							{
+								"buffer_size": 5086670,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										289,
+										355
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/index.html",
+							"settings":
+							{
+								"buffer_size": 2023,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										93,
+										93
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/base.html",
+							"settings":
+							{
+								"buffer_size": 3390,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/register.html",
+							"settings":
+							{
+								"buffer_size": 557,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										179,
+										179
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/views/__init__.py",
+							"settings":
+							{
+								"buffer_size": 2790,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/index.js",
+							"settings":
+							{
+								"buffer_size": 378,
 								"regions":
 								{
 								},
@@ -380,7 +812,8 @@
 								"settings":
 								{
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -389,26 +822,248 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/Users/chrisczub/repos/bitleap/web/cloud/models/bonuscredit.php",
+							"buffer": 8,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/decorators/__init__.py",
 							"settings":
 							{
-								"buffer_size": 9819,
+								"buffer_size": 1946,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										786,
-										786
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"sublimelinter": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/Rakefile",
+							"settings":
+							{
+								"buffer_size": 4169,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										360,
+										360
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 56.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/comparator.js",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/lib/comparator.lib.js",
+							"settings":
+							{
+								"buffer_size": 701,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										574,
+										574
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/js/src/comparator/register.js",
+							"settings":
+							{
+								"buffer_size": 187,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/views/auth.py",
+							"settings":
+							{
+								"buffer_size": 2707,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2198,
+										2198
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 158.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/templates/login.html",
+							"settings":
+							{
+								"buffer_size": 730,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										153,
+										153
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/__init__.py",
+							"settings":
+							{
+								"buffer_size": 4768,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2809,
+										2809
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1365.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/Users/chrisczub/repos/comparator_facebook/comparator/static/css/lib/wells.less",
+							"settings":
+							{
+								"buffer_size": 305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										213,
+										213
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -450,7 +1105,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "1920 160 1920 1080 1920 160 1920 1080 ",
+			"position": "0 69 1440 809 0 0 1440 878 ",
 			"replace":
 			{
 				"height": 0.0
@@ -461,6 +1116,22 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"1",
+						"venv/lib/python2.7/encodings/iso8859_1.py"
+					],
+					[
+						"comparator.p",
+						"comparator/__init__.py"
+					],
+					[
+						"sett",
+						"comparator/settings.conf"
+					],
+					[
+						"__",
+						"comparator/__init__.py"
+					],
 					[
 						"account/bo",
 						"web/cloud/cui_views/account/bonuscredits.php"
@@ -486,7 +1157,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 265.0,
 			"status_bar_visible": true,
-			"window_id": 2,
+			"window_id": 3,
 			"workspace_name": ""
 		}
 	],
